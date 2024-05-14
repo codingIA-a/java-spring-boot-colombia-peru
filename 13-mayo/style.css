@@ -1,0 +1,77 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.row {
+    margin: 20px;
+}
+.col {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 10px;
+}
+@media only screen and (max-width: 480px){
+    .sm-0 {
+        display: none;
+    }
+    .sm-4 {
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 481px){
+    .med-0 {
+        display: none;
+    }
+    .med-2 {
+        width: 45%;
+    }
+    .med-4 {
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 1024px){
+    .lg-1 {
+        width: 23%;
+        display: inline-block;
+    }
+    .lg-one-third {
+        width: 31%;
+    }
+    .lg-3 {
+        width: 72%;
+    }
+    .lg-4 {
+        width: 100%;
+    }
+}
+#wrapper{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 20px;
+}
+#header{
+    height: 150px;
+    background-color: green;
+}
+#navigation{
+    height: 300px;
+    background-color: blue;
+}
+#main_content{
+    background-color: red;
+    padding: 12px;
+}
+    .subcontents{
+        height: 200px;
+        background-color: yellow;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    #advertisement{
+        height: 120px;
+        background-color: purple;
+        margin-top: 20px;
+    }
