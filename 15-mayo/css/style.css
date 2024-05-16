@@ -1,0 +1,18 @@
+.size-button{
+    width: 150px;
+    height: 100px;
+}
+
+.btn-red{
+    background-color: red;
+}
+.btn-blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
