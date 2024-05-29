@@ -1,0 +1,11 @@
+
+//Escriba una clase cuyo método principal
+//muestre su nombre, apellido y edad en lineas distintas
+
+
+//Escriba una clase cuyo método principal
+//sume dos numeros y muestre el resultado en la terminal
+
+
+//Escriba una clase cuyo método principal
+//genere un numero aleatorio entre 1 y 100
