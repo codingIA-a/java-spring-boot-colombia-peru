@@ -1,0 +1,6 @@
+//Crear una clase que pueda distinguir entre un dia hábil y uno de fin de semana
+//se recomienda crear un array que en su interior tenga los 7 dias de la semana
+//Se debe acceder al arreglo con un índice aleatorio. 
+//Para esto deberá generar un número aleatorio que sirva como índice
+//Utilice sentencias condicionales para evaluar si el día seleccionado por el índice aleatorio
+//es dia hábil o fin de semana
