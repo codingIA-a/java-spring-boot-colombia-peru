@@ -1,0 +1,4 @@
+//crear una calculadora que realice las 4 operaciones básicas
+//para esto deberá crear 4 métodos (uno para cada operación)
+//Además si se utiliza un divisor igual a cero deberá capturar el error y mostrar el mensaje correspondiente
+//para manejar el error use try catch
