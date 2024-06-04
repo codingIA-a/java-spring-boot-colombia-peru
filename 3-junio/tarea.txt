@@ -1,0 +1,28 @@
+Deberá crear una clase Libro que tenga los siguientes atributos:
+Título, autor y precio
+Se debe poder crear un objeto libro con titulo.
+Se debe poder crear un objeto libro con titulo y autor.
+Se debe poder crear un objeto libro con titulo, autor y precio.
+Todos los libros deben tener getters y setters
+Deberá tener un método que muestre toda la información separada por dos puntos. 
+-------------
+Ejemplo
+-------------
+Título: Neutomante
+Autor: William Gibson
+Precio: 10.0
+
+Además, deberá poder testar esto en un archivo diferente, para esto considere lo siguiente:
+Sobrecargar constructor:
+
+Crear un Libro solo con el título
+Crear un Libro con el título y autor
+Crear un Libro con el título, autor y precio.
+
+A continuación:
+Establezca el nombre de autor y precio para el primer libro
+Establecer precio para libro 2
+
+Finalmente:
+Mostrar toda la información en terminal como se indica al comienzo. Separada por dos puntos (:)
+
