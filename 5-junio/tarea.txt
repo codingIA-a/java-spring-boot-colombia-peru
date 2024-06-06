@@ -1,0 +1,7 @@
+//Crear una interface que tenga un único método llamado powerOn()
+//Crear una clase smartphone y una clase notebook por separado
+//ambas clases deberán implementar la interface y, por lo tanto, el método de la interface
+//Además cada clase debe tener dos atributos propios y dos métodos propios relacionado a tareas que
+//realiza cada uno de los dispositivos
+//nol olvidar getters y setters
+//Debe implementar dos constructores: uno con ambos atributos y uno con solo un atributo.
